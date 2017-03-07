@@ -1,0 +1,37 @@
+nav {
+  width: 100%;
+  height: 56px;
+  line-height: 56px;
+}
+#slider {
+  position: relative;
+  height: auto;
+  width: 100%;
+}
+#isi {
+  width :100%;
+  height: auto;
+}
+#kiri
+{
+width:40%;
+float:left;
+}
+#kanan
+{
+width:40%;
+float:right;
+}
+p{
+	text-align: center;
+}
+
+#parallax{
+	height: auto;
+	width: auto;
+}
+h5 ,h4 , h3 { font-family: Gabriola; }
+
+#tengah{
+  float: center;
+}
